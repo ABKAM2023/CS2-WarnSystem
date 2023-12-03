@@ -1,3 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/ABKAM2023/CS2-WarnSystem?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ABKAM2023/CS2-WarnSystem?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/ABKAM2023/CS2-WarnSystem?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/CS2-WarnSystem/total?style=for-the-badge)
+
 # CS2-WarnSystem
 Система предупреждений WarnSystem предоставляет функционал для выдачи предупреждений игрокам, нарушившим правила игрового сервера. Кроме того, при достижении максимального количества предупреждений, установленного администраторами сервера, система автоматически применяет меру блокировки (бана) к данному игроку. Это помогает поддерживать порядок и чистоту на сервере, обеспечивая безопасную и комфортную игровую среду для всех участников.
 
