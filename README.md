@@ -58,8 +58,10 @@ WarningCenterMessage: "<font color='red' class='fontSize-l'>You have received a 
 ![image](https://github.com/ABKAM2023/CS2-WarnSystem/assets/149762275/ca716e10-6a14-45aa-8647-7e7e3bedee4e)
 
 # Commands
-`!warn` - issue a warning to a player.
-`!unwarn` - clear a player's warnings.
+- `!warn` issue a warning to a player.
+- `!unwarn` clear a player's warnings.
+
+#
 
 # RU
 Система предупреждений WarnSystem предоставляет функционал для выдачи предупреждений игрокам, нарушившим правила игрового сервера. Кроме того, при достижении максимального количества предупреждений, установленного администраторами сервера, система автоматически применяет меру блокировки (бана) к данному игроку. Это помогает поддерживать порядок и чистоту на сервере, обеспечивая безопасную и комфортную игровую среду для всех участников.
