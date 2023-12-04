@@ -9,13 +9,14 @@
 The WarnSystem warning system provides functionality for issuing warnings to players who violate the rules of the game server. Additionally, when the maximum number of warnings set by the server administrators is reached, the system automatically applies a blocking measure (ban) to that player. This helps maintain order and cleanliness on the server, ensuring a safe and comfortable gaming environment for all participants.
 
 # Installation
-Install Metamod:Source and CounterStrikeSharp. To enable the ban functionality, you need CS2 Admin System.
-Download WarnSystem.
-Extract the archive and upload it to your game server.
-How to Access Commands?
-Open the "addons/counterstrikesharp/configs" directory.
-Find the "admins.json" file in the specified folder.
-Inside the "admins.json" file, add the necessary flags for access to commands. For example:
+1. Install Metamod:Source](https://www.sourcemm.net/downloads.php/?branch=master) and [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp). To enable the ban functionality, you need [CS2 Admin System](https://github.com/Pisex/cs2-bans/releases/tag/2.1.1).
+2. Download WarnSystem.
+3. Extract the archive and upload it to your game server.
+
+# How to Access Commands?
+1. Open the "addons/counterstrikesharp/configs" directory.
+2. Find the "admins.json" file in the specified folder.
+3. Inside the "admins.json" file, add the necessary flags for access to commands. For example:
 ```
 "76561198847871713": {
     "identity": "76561198847871713",
