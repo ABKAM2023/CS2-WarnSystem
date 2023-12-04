@@ -3,8 +3,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ABKAM2023/CS2-WarnSystem?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/CS2-WarnSystem/total?style=for-the-badge)
 
-# EN
 # CS2-WarnSystem
+
+# EN
 The WarnSystem warning system provides functionality for issuing warnings to players who violate the rules of the game server. Additionally, when the maximum number of warnings set by the server administrators is reached, the system automatically applies a blocking measure (ban) to that player. This helps maintain order and cleanliness on the server, ensuring a safe and comfortable gaming environment for all participants.
 
 # Installation
@@ -60,8 +61,9 @@ WarningCenterMessage: "<font color='red' class='fontSize-l'>You have received a 
 `!warn` - issue a warning to a player.
 `!unwarn` - clear a player's warnings.
 
+#
+
 # RU
-# CS2-WarnSystem
 Система предупреждений WarnSystem предоставляет функционал для выдачи предупреждений игрокам, нарушившим правила игрового сервера. Кроме того, при достижении максимального количества предупреждений, установленного администраторами сервера, система автоматически применяет меру блокировки (бана) к данному игроку. Это помогает поддерживать порядок и чистоту на сервере, обеспечивая безопасную и комфортную игровую среду для всех участников.
 
 # Установка
